@@ -1,0 +1,13 @@
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando 
+a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+ * `for`: Es un bucle, que consta de 3 partes de manera predeterminada, encerrado entre parentesis; la primera es una variable a determinar, la segunda una condicion 
+que debe ser true para que se siga ejecutando, y la tercera una expresion que se ejecuta en caso de que la condicion sea verdadera. 
+   Al final hay una sentencia, que se seguirá ejecutando en bucle con los argumentos antes definidos, siempre que la condición siga siendo 
+   verdadera.
+
+ * `&&`: Es un operador lógico que devuelve true solo si todas todas las expresiones conectadas por el son true. 
+
+ * `||`: Es un operador lógico que devuelve true si alguna de las expresiones conectadas por el son true.
+ 
+ * `!`: Es un operador lógico que devuelve el valor booleano opuesto al que corresponda.
