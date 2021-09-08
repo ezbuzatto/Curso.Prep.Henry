@@ -1,0 +1,13 @@
+ 1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando 
+ a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+	* Variables: Es la herramienta que se utiliza en programación para asignarle un valor a algo.
+	* Strings: Son conjuntos de letras encerradas entre comillas que forman bloques de texto. 
+	* Funciones (argumentos, `return`): La funcion es la herramienta utilizada para darle instrucciones al intérprete, con la finalidad de que
+     devuelva un valor o realice una tarea. Los argumentos son las variables que podemos declarar entre parentesis luegoo del nombre de la
+     funcion, para utilizarlo luego dentro de la misma; y return es la herramienta utilizada para que la funcion devuelva lo que le pedimos.
+	* Declaraciones 'if': Es la herramienta utilizada para que la funcion verifique si algo es true, y de serlo ejecute un codigo; caso 
+     contrario, seguirá avanzando en el codigo hasta encontrar una formula que resulte ser true. 
+	* Valores booleanos (`true`,`false`): Es el modo que tiene Javascript de verificar la veracidad de una expresión, devolviendo true o false.
+
+    
